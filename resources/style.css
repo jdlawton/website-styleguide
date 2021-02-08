@@ -1,0 +1,103 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+html, body {
+    padding: 0 5%;
+}
+
+section {
+    border: solid black 1px;
+    margin-bottom: 1%;
+}
+
+h1 {
+    margin: 3% 0;
+    font-family: Raleway;
+}
+
+h2 {
+    margin: 3%;
+    font-family: Ubuntu;
+}
+
+p {
+    font-family: Ubuntu;
+}
+
+ul {
+    list-style-position: inside;
+}
+
+li {
+    font-family: Ubuntu;
+}
+
+emphasis {
+    font-style: italic;
+}
+
+.section-div {
+    padding: 3%;
+    width: 80%;
+    margin: 0 auto;
+}
+
+#color-1 {
+    background-color: #331832;
+    color: #FFFFFF;
+}
+
+#color-2 {
+    background-color: #D81E5B;
+}
+
+#color-3 {
+    background-color: #F0544F;
+}
+
+#color-4 {
+    background-color: #C6D8D3;
+}
+
+#color-5 {
+    background-color: #FDF0D5;
+}
+
+.font-div h3 {
+    border-bottom: solid black 2px;
+    margin-bottom: 2%;
+}
+
+#font-1 {
+    font-family: "Raleway";
+}
+
+#font-1  p {
+    font-family: "Raleway";
+}
+
+#font-2 {
+    font-family: "Ubuntu";
+}
+
+#font-2  p {
+    font-family: "Ubuntu";
+}
+
+#font-3 {
+    font-family: "Source Code Pro";
+}
+
+#font-3 p {
+    font-family: "Source Code Pro";
+}
+
+.style-div h2 {
+    margin-left: 0;
+}
+
+.style-div p {
+    margin-bottom: 3%;
+}
